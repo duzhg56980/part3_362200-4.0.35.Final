@@ -1,0 +1,6 @@
+import io.netty.buffer.SwappedByteBuf;
+public class FunctionUse12333 {
+public void funcUse() {
+SwappedByteBuf swappedbytebuf = new SwappedByteBuf();
+}
+}
